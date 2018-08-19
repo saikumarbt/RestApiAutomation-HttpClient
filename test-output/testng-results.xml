@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3098" started-at="2018-08-19T11:32:36Z" finished-at="2018-08-19T11:32:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3098" started-at="2018-08-19T11:32:36Z" finished-at="2018-08-19T11:32:39Z">
+      <class name="com.suntaragali.restapi.tests.PostAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.suntaragali.restapi.tests.PostAPITest@51565ec2]" name="setUp" is-config="true" duration-ms="13" started-at="2018-08-19T11:32:36Z" finished-at="2018-08-19T11:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="postApiTest()[pri:0, instance:com.suntaragali.restapi.tests.PostAPITest@51565ec2]" name="postApiTest" duration-ms="3038" started-at="2018-08-19T11:32:36Z" finished-at="2018-08-19T11:32:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postApiTest -->
+      </class> <!-- com.suntaragali.restapi.tests.PostAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
